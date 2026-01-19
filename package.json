@@ -3,7 +3,7 @@
   "license": "MIT",
   "version": "0.0.1",
   "dependencies": {
-    "express": "4.x",
+    "express": "^5.2.1",
     "underscore": "^1.12.1"
   },
   "scripts": {
